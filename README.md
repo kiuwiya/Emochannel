@@ -1,7 +1,7 @@
 # Emochannel X
 
 ## Introduction
-Emochannel X is a Streamlit application designed to detect emotions in text. 
+Emochannel X is a Streamlit application designed to detect emotions in text from tweets. 
 It leverages a pre-trained machine learning model to classify text into various emotional categories and provides a user-friendly interface for interaction.
 
 ## Table of Contents
